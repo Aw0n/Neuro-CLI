@@ -423,7 +423,10 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by the Neuro-CLI team
+**Mausam Kar**
+
+- Portfolio: [mausam04.vercel.app](https://mausam04.vercel.app)
+- Built with ❤️ using Next.js, Express, and Google AI SDK
 
 ---
 

@@ -299,6 +299,7 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
    - TypeScript type checking
 
 3. **Build for Production**
+
    ```bash
    npm run build
    npm start
@@ -455,6 +456,12 @@ NODE_OPTIONS='--inspect' npm run dev
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Radix UI Documentation](https://www.radix-ui.com/)
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
+
+## 👨‍💻 Author
+
+**Mausam Kar**
+
+- Portfolio: [mausam04.vercel.app](https://mausam04.vercel.app)
 
 ---
 
